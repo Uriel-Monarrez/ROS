@@ -1,0 +1,2 @@
+darwin_control:darwin_description:darwin_gazebo:darwin_ia_2:darwin_neuronal:darwin_training
+-DCATKIN_DEVEL_PREFIX=/home/uriel/ros-darwin/devel -DCMAKE_INSTALL_PREFIX=/home/uriel/ros-darwin/install -G Unix Makefiles

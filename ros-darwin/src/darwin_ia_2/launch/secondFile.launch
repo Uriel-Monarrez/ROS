@@ -1,0 +1,8 @@
+<launch>
+
+    <!-- Load the parameters for the algorithm -->
+    <rosparam command="load" file="$(find darwin_training)/config/qlearn_params.yaml" />
+
+    <!-- Launch the training system -->
+    <node pkg="darwin_IA_2" name="darwin_train" type="train.py" output="screen"/>
+</launch>

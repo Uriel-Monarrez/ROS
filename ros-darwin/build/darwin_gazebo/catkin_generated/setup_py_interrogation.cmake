@@ -1,0 +1,7 @@
+set(darwin_gazebo_SETUP_PY_SETUP_MODULE "distutils.core")
+set(darwin_gazebo_SETUP_PY_VERSION "0.1.0")
+set(darwin_gazebo_SETUP_PY_SCRIPTS "")
+set(darwin_gazebo_SETUP_PY_PACKAGES "darwin_gazebo")
+set(darwin_gazebo_SETUP_PY_PACKAGE_DIRS "src/darwin_gazebo")
+set(darwin_gazebo_SETUP_PY_MODULES "")
+set(darwin_gazebo_SETUP_PY_MODULE_DIRS "")
